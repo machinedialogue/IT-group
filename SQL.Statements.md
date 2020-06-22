@@ -10,3 +10,13 @@ USE [AdventureWorks2017]
 GO
 ALTER AUTHORIZATION ON DATABASE::[AdventureWorks2017] TO [sa]
 GO
+
+To know how many Column and Rows in a table:
+
+SELECT      c.name  AS 'ColumnName'
+            ,t.name AS 'TableName'
+FROM        sys.columns c
+JOIN        sys.tables  t   ON c.object_id = t.object_id
+--WHERE       c.name LIKE '%MyName%'
+ORDER BY    TableName
+            ,ColumnName;
