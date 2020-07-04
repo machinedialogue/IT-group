@@ -5,18 +5,18 @@
 
 - why do we need the GItHub?
 
-Agile : Most fundamental part is to know very well about the User Story . 
+- Agile : Most fundamental part is to know very well about the User Story . 
 
-Agile : User stoy : Memorize the Epic , Task , Story etc
+- Agile : User stoy : Memorize the Epic , Task , Story etc
 
-Visit Mountain Goat web page : and put some time . very useful resources for the Agile Metholodgy . 
+- isit Mountain Goat web page : and put some time . very useful resources for the Agile Metholodgy . 
 
-we discused about jira .
+- we discused about jira .
 
-we discused about Product backlock which we have have clear undurstanding.
+- we discused about Product backlock which we have have clear undurstanding.
 
-Mountain gaot is best webside to learn Agile .
+- Mountain gaot is best webside to learn Agile .
 
-we need to memorize user story for agile.
+- We need to memorize user story for agile.
 
-need to learn defination of sprint.
+- Need to learn defination of sprint.
