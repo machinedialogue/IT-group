@@ -1,5 +1,7 @@
   Setup Microsoft Teams (To communicate each other and post all the links for Study):
   
+  Babu Bhai gave some Study Material Like Configure a classic board and Create an issue and a sub-task with Jira:
+  
   - https://support.atlassian.com/jira-software-cloud/docs/configure-a-classic-board/
 
   - https://support.atlassian.com/jira-software-cloud/docs/create-an-issue-and-a-sub-task/
