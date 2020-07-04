@@ -20,3 +20,6 @@
 - We need to memorize user story for agile.
 
 - Need to learn defination of sprint.
+- What is DOD In Agile ?
+- What is DOR in Agile ?
+- What is Sprint in Agile ? 
