@@ -1,9 +1,14 @@
 
-We install Microsoft Teams and sign up as work. Microsoft TEAMS are more popular and professional.
-We sign up with Github. https://github.com/machinedialogue/IT-group  
-Create file Session1.md, Session2.md and Session3.md
-Practice more with Github.com
-Practice more with Microsoft SQL Server Management Studio with SQL commands
+- We install Microsoft Teams and sign up as work. Microsoft TEAMS are more popular and professional.
+
+- We sign up with Github. https://github.com/machinedialogue/IT-group  
+
+- Create file Session1.md, Session2.md and Session3.md
+
+- Practice more with Github.com
+
+- Practice more with Microsoft SQL Server Management Studio with SQL commands
+
 /****** Script for SelectTopNRows command from SSMS  ******/
 SELECT TOP (1000) [AddressID]
       ,[AddressLine1]
