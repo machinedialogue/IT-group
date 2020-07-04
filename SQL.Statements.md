@@ -1,6 +1,7 @@
             Keep copy all the interesting query:
             
-            SQL SERVER – FIX: Database Diagram Error 15517 – Cannot Execute as the Database Principal Because the Principal ‘dbo’ Does Not Exist
+            SQL SERVER – FIX: Database Diagram Error 15517 – Cannot Execute as the Database Principal 
+            Because the Principal ‘dbo’ Does Not Exist
 
             USE AdventureWorks2017
             GO
