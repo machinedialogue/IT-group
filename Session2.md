@@ -2,7 +2,7 @@
       
       Test the latest features with SQL Server 2017 Developer Edition. Full-featured free edition.
       
-      -     https://cloudblogs.microsoft.com/sqlserver/2019/01/21/test-the-latest-features-with-sql-server-2017-developer-edition/
+      https://cloudblogs.microsoft.com/sqlserver/2019/01/21/test-the-latest-features-with-sql-server-2017-developer-edition/
 
       Free Download SQL Server Management Studio (SSMS):
       
