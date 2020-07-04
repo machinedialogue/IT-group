@@ -138,3 +138,11 @@ The scrum folks really did think of everything. In order to plan your upcoming s
   Learn more about sprints
   
   - Sprints are so well known(and so effective!) that they’re often seen as the first step on the path towards greater agility. As we’ve learned, mastering sprints requires a mastery of a handful of scrum and agile concepts that build upon each other. Please use the rest of our articles on scrum to round out your knowledge and inch ever closer towards scrum bliss.
+
+  As per Babu Bhai for quick access Jira Software, Github and Google Slides, drop the links in Wiki (Microsoft Teams) as follows:
+  
+  - https://babuitgroup.atlassian.net/jira/software/projects/BAB/boards/1
+  
+  - https://github.com/machinedialogue/IT-group
+  
+  - https://docs.google.com/presentation/d/14QN3DMBqAAYUSlVQLal7KDY8-KnDS4eA-rWBZXb_1W4/edit#slide=id.g8b7d649d8a_2_33
