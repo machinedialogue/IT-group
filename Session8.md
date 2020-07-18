@@ -7,3 +7,7 @@
   Story for everyone how to create a video capture:
   
   
+  
+  
+  
+  
