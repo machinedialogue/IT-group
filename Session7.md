@@ -1,6 +1,6 @@
   Study Points:
 
-  User Story Acceptance Creteria. (Mountain Board)
+  User Story Acceptance Creteria. (Mountaingoat)
   
   Concept of Story Point.
    
