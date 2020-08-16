@@ -7,6 +7,6 @@ API Testing with Postman
 
 Action Items:
 
-Loook for Freelance Manual Testing Jobs
+Look for Freelance Manual Testing Jobs
 
 Build your Resume as entry level QA 
