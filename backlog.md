@@ -1,8 +1,8 @@
-Windows 2012, 2016
-Visual Studio Code
-MS Project
-Unix
-XML
+- Windows 2012, 2016
+- Visual Studio Code
+- MS Project
+- Unix
+- XML
 
 Certifition
 VA - Security Plus
