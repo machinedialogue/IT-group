@@ -8,6 +8,7 @@
 - AWS
 - Azure
 - Selenium
+- Kubernetes for Testers - (https://www.youtube.com/watch?v=w4MiaZBI0oQ&list=PL6tu16kXT9PpKXQADb8AyJ1zHyp7xDHHo)
 - DevOps - (https://aws.amazon.com/devops/what-is-devops/)
 
 Certifition
