@@ -7,6 +7,8 @@
 - Jenkins
 - AWS
 - Azure
+- Selenium
+- DevOps
 
 Certifition
 VA - Security Plus
