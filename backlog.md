@@ -8,7 +8,7 @@
 - AWS
 - Azure
 - Selenium
-- DevOps
+- DevOps - (https://aws.amazon.com/devops/what-is-devops/)
 
 Certifition
 VA - Security Plus
