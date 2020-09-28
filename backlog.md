@@ -17,7 +17,8 @@ VA - Security Plus
 
 AWS Cloud Practitioner Certification and more 
 
-AWS Certified DevOps Engineer – Professional - for next job https://applitools.com/tutorials/selenium-javascript.html
+AWS Certified DevOps Engineer – Professional - for next job
+https://applitools.com/tutorials/selenium-javascript.html
 
 AZ-400: Designing and Implementing Microsoft DevOps Solutions
 https://docs.microsoft.com/en-us/learn/certifications/exams/az-400
