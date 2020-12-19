@@ -4,7 +4,7 @@
 - Unix
 - XML
 - container
-- Jenkins
+- Jenkins or GitLab
 - AWS
 - Azure
 - Selenium
