@@ -1,8 +1,10 @@
-            Quick Summary of the Last Night Group Discussion.
+           Quick Summary of the Last Night Group Discussion. 
+           
 Demonstr ated how to push a file to the GitLab repository (From local repository to remote repository).
 Demonstrated how to solve the host file and remove the comment out option.
 
           Things need to study for the next group discussion.
+          
 Everyone needs to get practical and theriacal ideas about Git (from a posted link / You tube video)
 Everyone must be engaged in team meetings throughout the week for any types of trouble shooting.
 Please and highly advised not to discussed about old stuffs and carry on with it, during the whole group class except in the standup meetings (any trouble shooting please try to get help from each other via team meetings.).
