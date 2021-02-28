@@ -2,8 +2,10 @@
 				
 *		Demonstr ated how to push a file to the GitLab repository (From local repository to remote repository). 
 *		Demonstrated how to solve the host file and remove the comment out option.
+*		
 
-      			Things need to study for the next group discussion.
+      		Things need to study for the next group discussion.
+			
 				
 *		Everyone needs to get practical and theriacal ideas about Git (from a posted link / You tube video).
 
