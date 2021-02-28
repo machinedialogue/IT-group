@@ -1,4 +1,4 @@
-                 Quick Summary of the Last Night Group Discussion. 
+Quick Summary of the Last Night Group Discussion. 
 Demonstr ated how to push a file to the GitLab repository (From local repository to remote repository). 
 Demonstrated how to solve the host file and remove the comment out option.
 
